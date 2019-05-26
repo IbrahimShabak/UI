@@ -1,0 +1,5 @@
+ng g component components/home
+ng generate @angular/material:material-nav --name=components/nav
+ng generate @angular/material:nav components/nav
+ng generate @angular/material:table components/test/testHome
+ng generate @angular/material:address-form components/test/testAddress
